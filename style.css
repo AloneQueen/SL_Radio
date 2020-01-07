@@ -1,0 +1,9 @@
+.one ul{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.one ul div{
+    padding: 10px;
+}
